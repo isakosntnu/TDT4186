@@ -1,0 +1,10 @@
+*** Now run 'gdb' in another window.
+
+xv6 kernel is booting
+
+hart 2 starting
+hart 1 starting
+init: starting sh
+$ hello
+Hello World 
+$ qemu-system-riscv64: terminating on signal 15 from pid 1601 (make)
